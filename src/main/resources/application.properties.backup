@@ -1,0 +1,8 @@
+spring.application.name=fashion-store
+server.port=8080
+spring.datasource.url=jdbc:mysql://localhost:3306/fashion_store_basic?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Kolkata
+spring.datasource.username=root
+spring.datasource.password=password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=false
+spring.thymeleaf.cache=false
